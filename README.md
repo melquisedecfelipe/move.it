@@ -30,7 +30,6 @@
 
 This project was developed with the following technologies:
 
-- [React](https://reactjs.org)
 - [Next.js](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 
